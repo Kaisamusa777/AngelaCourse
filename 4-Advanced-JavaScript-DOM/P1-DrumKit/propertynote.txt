@@ -1,0 +1,31 @@
+Propertis: stores characterstics of an object or person
+Property is like a library of something or object
+var worker1 = {
+    name:musa,
+    age:11,
+    student:true,
+    language: ["Arabic", "English", "French"]
+}
+alert("Hello, my name is " + worker1.name);
+
+
+
+Creating a Factory for properties make life easier, such as: 
+
+
+below is a constructor function, which name has to be capitalized.
+It takes number of inputs 
+also the function is assigned to the properties
+
+function BellBoy(name, age, hashWorkerPermit, languages){
+    this.name = name;
+    this.age = age;
+    this.hashWorkerPermit = hashWorkerPermit;
+    this.languages = languages;
+
+
+}
+
+initialise Object 
+
+var bellBoy1 = new BellBoy("Timmy", 19,true, ["French", "English"])

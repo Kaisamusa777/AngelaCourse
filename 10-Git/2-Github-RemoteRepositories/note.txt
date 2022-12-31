@@ -1,0 +1,15 @@
+1. go on github.com, create your account 
+create new repository
+name it, leave it public unless is something very private 
+
+2.now, we want to push our existing repository using the command listen
+
+3.to add remotely
+git remote add origin [url of the remote repository]
+https://github.com/Kaisamusa777/story.git
+
+4.push it to the remote repository, 
+git push -u origin master 
+
+it pushes your local repository to the remote repository, using the -u option 
+name of remote is origin, name of branch is master 

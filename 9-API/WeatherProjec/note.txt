@@ -1,0 +1,24 @@
+API Key =    8b3fb16308e3cc2ba8ed088556cd3881
+After creating the idex, and app js file, in the terminal, do the following: 
+
+1.npm init 
+2.npm install express
+
+3. work in the app.js file, 
+
+4. use nodemon app.js to listen 
+
+
+5. for post request, install body parser
+npm install body-parser
+
+//   console.log(weatherDescription)
+        //   const wind = weatherData.wind.deg
+        //   console.log(wind);
+
+//   console.log(weatherData);
+          //to get specific information from certain data
+
+ //   console.log(temp);
+        // const weatherDescription = weatherData.weather.description 
+        // we cannont have two res, else the program will crash

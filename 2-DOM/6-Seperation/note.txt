@@ -1,0 +1,10 @@
+html for web displaying
+css for styling
+javascripting for behavior
+
+it is a good practice, to stick to these and not overide anything
+
+
+document.querySelector(".btn").classList.add("hidden") makes button hidden
+document.querySelector(".btn").classList.remove("hidden"); removes button hidden
+.classList.toggle

@@ -1,0 +1,31 @@
+1. nano filename, opens file name 
+control exit, to exit. 
+
+2. Initialize git 
+git init 
+
+3. To track changes of the file, 
+git status 
+the file will be in red, and not ready to be committed
+
+
+[git add filename] or [git add .] adds all the file in the directory
+now, it is green, and ready to be committed
+
+
+4. Commit the file under version control 
+git commit -m " simplies message that was changed."
+ 
+always use presentence in the commit message
+
+5. To see the commit changes 
+git log 
+
+
+6.To revert changes made on the file 
+git checkout filename 
+
+7. To check the difference of a file 
+git diff filename 
+-shows what was deleted from the file 
++shows what was added on the file

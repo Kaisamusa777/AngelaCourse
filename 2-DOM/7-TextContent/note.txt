@@ -1,0 +1,2 @@
+textContent can be used for text, instead of innerHtml
+

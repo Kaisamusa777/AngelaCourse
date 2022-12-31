@@ -1,0 +1,4 @@
+Document Object Module
+Method is something an object can do.
+example .drive()
+car.drive();

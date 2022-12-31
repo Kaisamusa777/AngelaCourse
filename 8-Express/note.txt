@@ -1,0 +1,13 @@
+installing nodemon.io  = listens and constantly update the server when changes is made
+npm install -g nodemon 
+
+after it installed, 
+nodemon server.js 
+
+npm install express
+
+
+To accept data in the server 
+install, 
+
+nmp install body-parser

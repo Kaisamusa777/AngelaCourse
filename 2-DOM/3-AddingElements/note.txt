@@ -1,0 +1,8 @@
+document.getElementsByID
+document.getElementsByTag("li")[2].color="purple"; gets the second element on the li list,
+ and make the color to be purpel
+
+
+ li.item = if item is a class of li
+ li .item = if item is not a class of li, but is inserting in li as an element
+ li a

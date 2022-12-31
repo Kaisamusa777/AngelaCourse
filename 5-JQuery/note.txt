@@ -1,0 +1,26 @@
+
+JQuery is a javascript library
+one of the Most Popular javascript library 
+
+
+John Resek = he wrote the JQUERY library 
+
+instead of- document.querySelector("h1");
+
+Vs. 
+
+you could use-   jQuery("h1"); 
+Or
+
+$("h1");
+
+
+How to incorporate JQuery into our website? 
+https://jquery.com/ CDN (Content Delivery Network)
+Use google CDN 
+java script
+
+the cdn for jQuery should be below in the html, right above the 
+
+
+minify.com = helps to put together our code

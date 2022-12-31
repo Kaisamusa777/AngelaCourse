@@ -1,0 +1,4 @@
+javascript uses camelcase
+such as mKamara
+
+all styling should be in string.

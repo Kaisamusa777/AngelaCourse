@@ -1,0 +1,6 @@
+https://www.appbrewery.co/p/web-development-course-resources  
+nmpjs.com/packages/superheroes  - NodeJs library for superheroes
+
+npm init file name   = to initialise a file name in the terminal
+
+https://expressjs.com/

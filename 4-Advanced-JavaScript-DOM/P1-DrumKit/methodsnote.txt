@@ -1,0 +1,27 @@
+method is a function associated with an object
+
+it usualy comes after the variable. 
+Example: 
+
+bellBoy1.moveSuitcase(); // this is a method
+audio.play();
+
+difference between method and properties are the parenthesis
+
+
+
+function myFunction(filelocation){
+    this.fileLocation = fileLocation;
+
+    creaitng your own method
+
+this.myMethod = function(){
+
+    console.log("this is my methond);
+}
+
+
+}
+
+var myObject = new Object();
+myObject.myMethod();
